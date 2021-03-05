@@ -1,0 +1,10 @@
+# Site settings
+title: A coastal engineer's blog
+author: Clint reyes
+  email: clint.reyes.coastal@gmail.com
+description: "My personal site / blog"
+github_username: clintreyes
+
+# Build settings
+markdown: kramdown
+remote_theme: jekyll/minima
